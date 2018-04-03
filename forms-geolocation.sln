@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "forms-geolocation.Android", "forms-geolocation\forms-geolocation.Android\forms-geolocation.Android.csproj", "{F490371B-93EB-45AE-9BA3-E97D90E56EA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "forms-geolocation", "forms-geolocation\forms-geolocation\forms-geolocation.csproj", "{62E8AB73-6851-40A9-9DA3-216CA06DAD62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F490371B-93EB-45AE-9BA3-E97D90E56EA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F490371B-93EB-45AE-9BA3-E97D90E56EA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F490371B-93EB-45AE-9BA3-E97D90E56EA0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F490371B-93EB-45AE-9BA3-E97D90E56EA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F490371B-93EB-45AE-9BA3-E97D90E56EA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F490371B-93EB-45AE-9BA3-E97D90E56EA0}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{62E8AB73-6851-40A9-9DA3-216CA06DAD62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62E8AB73-6851-40A9-9DA3-216CA06DAD62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62E8AB73-6851-40A9-9DA3-216CA06DAD62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62E8AB73-6851-40A9-9DA3-216CA06DAD62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59372658-B35B-4679-A41C-DE36980D4DFA}
+	EndGlobalSection
+EndGlobal
